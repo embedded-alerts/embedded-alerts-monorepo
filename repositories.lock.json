@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "organization": "embedded-alerts",
+  "tracking_issue": "DEN-1949",
+  "repositories": [
+    {
+      "name": "eal-interfaces",
+      "ref": "main"
+    },
+    {
+      "name": "eal-api",
+      "ref": "main"
+    },
+    {
+      "name": "eal-mash-web",
+      "ref": "main"
+    },
+    {
+      "name": "eal-leptos-web",
+      "ref": "main"
+    },
+    {
+      "name": "eal-dioxus-web",
+      "ref": "main"
+    },
+    {
+      "name": "eal-sync",
+      "ref": "main"
+    },
+    {
+      "name": "eal-cli",
+      "ref": "main"
+    },
+    {
+      "name": "eal-infra",
+      "ref": "main"
+    },
+    {
+      "name": "embedded-alerts-clients",
+      "ref": "main"
+    },
+    {
+      "name": "embedded-alerts-libs",
+      "ref": "main"
+    },
+    {
+      "name": "embedded-alerts.github.io",
+      "ref": "main"
+    }
+  ]
+}
